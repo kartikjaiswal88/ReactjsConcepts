@@ -1,0 +1,17 @@
+.counterContainer{
+    background-color: rgb(245, 211, 164);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+
+}
+
+#increButton{
+    padding: 10px;
+}
